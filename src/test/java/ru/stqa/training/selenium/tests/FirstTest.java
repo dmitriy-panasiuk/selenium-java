@@ -1,12 +1,8 @@
-package ru.stqa.training.selenium;
+package ru.stqa.training.selenium.tests;
 
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.stqa.training.selenium.BaseTest;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 

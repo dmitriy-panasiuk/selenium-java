@@ -15,8 +15,8 @@ public class BaseTest {
     @BeforeClass
     public static void start() {
         driver = new FirefoxDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        wait = new WebDriverWait(driver, 10);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        wait = new WebDriverWait(driver, 20);
     }
 
     @AfterClass
