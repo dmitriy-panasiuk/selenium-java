@@ -1,14 +1,10 @@
 package ru.stqa.training.selenium.tests;
 
-import org.apache.xpath.SourceTree;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import ru.stqa.training.selenium.BaseTest;
-
-import java.util.List;
 
 public class AdminPageTest extends BaseTest {
 
