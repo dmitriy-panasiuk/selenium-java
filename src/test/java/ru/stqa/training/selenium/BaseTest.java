@@ -5,7 +5,7 @@ import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import ru.stqa.training.selenium.tests.app.Application;
+import ru.stqa.training.selenium.app.Application;
 
 import java.util.List;
 

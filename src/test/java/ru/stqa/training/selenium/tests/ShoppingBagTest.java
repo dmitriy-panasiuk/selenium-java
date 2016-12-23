@@ -2,8 +2,8 @@ package ru.stqa.training.selenium.tests;
 
 import org.junit.Test;
 import ru.stqa.training.selenium.BaseTest;
-import ru.stqa.training.selenium.tests.pages.CheckoutPage;
-import ru.stqa.training.selenium.tests.pages.ProductPage;
+import ru.stqa.training.selenium.pages.CheckoutPage;
+import ru.stqa.training.selenium.pages.ProductPage;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

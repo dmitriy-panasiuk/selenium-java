@@ -1,9 +1,9 @@
-package ru.stqa.training.selenium.tests.app;
+package ru.stqa.training.selenium.app;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import ru.stqa.training.selenium.tests.pages.MainPage;
+import ru.stqa.training.selenium.pages.MainPage;
 
 import java.util.concurrent.TimeUnit;
 

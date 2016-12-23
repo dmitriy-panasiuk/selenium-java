@@ -1,13 +1,10 @@
-package ru.stqa.training.selenium.tests.pages;
+package ru.stqa.training.selenium.pages;
 
-import org.apache.xpath.operations.Bool;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.util.Set;
 
 public class CheckoutPage extends Page {
     public CheckoutPage(WebDriver driver, WebDriverWait wait) {
